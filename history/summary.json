@@ -1,7 +1,7 @@
 [
   {
     "name": "API",
-    "url": "https://api.daalbot.xyz",
+    "url": "https://api.daalbot.xyz/get/test/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.daalbot.xyz.ico",
     "slug": "api",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1044,
-    "timeDay": 1044,
-    "timeWeek": 1044,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "time": 952,
+    "timeDay": 952,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {}
   },
   {
     "name": "Bot",
-    "url": "https://bot.daalbot.xyz",
+    "url": "https://bot.daalbot.xyz/get/test/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bot.daalbot.xyz.ico",
     "slug": "bot",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 167,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   }
 ]
