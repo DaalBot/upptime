@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: API
-    url: https://api.daalbot.xyz
+    url: https://api.daalbot.xyz/get/test/ping
   - name: Bot
-    url: https://bot.daalbot.xyz
+    url: https://bot.daalbot.xyz/get/test/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
