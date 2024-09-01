@@ -15,8 +15,6 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://media.piny.dev/daalbot/website/logo.svg
   name: DaalBot Status
-  introTitle: "DaalBot Status"
-  introMessage: Is it working?
   navbar:
     - title: Status
       href: /
@@ -24,6 +22,7 @@ status-website:
       href: https://daalbot.xyz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
