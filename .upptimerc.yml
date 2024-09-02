@@ -15,6 +15,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.daalbot.xyz
   # baseUrl: /your-repo-name
+  favicon: https://media.piny.dev/DaalBotSquare.png
+  faviconSvg: https://media.piny.dev/daalbot/website/logo.svg
   logoUrl: https://media.piny.dev/daalbot/website/logo.svg
   name: DaalBot Status
   theme: night
