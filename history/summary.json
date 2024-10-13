@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.daalbot.xyz.ico",
     "slug": "external-api",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 400,
-    "timeDay": 545,
-    "timeWeek": 383,
-    "timeMonth": 408,
-    "timeYear": 400,
+    "uptimeYear": "99.81%",
+    "time": 398,
+    "timeDay": 301,
+    "timeWeek": 337,
+    "timeMonth": 406,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-09-11": 113
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 208,
-    "timeDay": 295,
-    "timeWeek": 204,
-    "timeMonth": 214,
-    "timeYear": 208,
+    "time": 207,
+    "timeDay": 185,
+    "timeWeek": 184,
+    "timeMonth": 212,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2024-09-25": 24
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 137,
-    "timeDay": 204,
-    "timeWeek": 126,
-    "timeMonth": 140,
-    "timeYear": 137,
+    "time": 136,
+    "timeDay": 88,
+    "timeWeek": 102,
+    "timeMonth": 141,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2024-09-02": 164
     }
