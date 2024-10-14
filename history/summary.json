@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 398,
-    "timeDay": 301,
-    "timeWeek": 337,
-    "timeMonth": 406,
-    "timeYear": 398,
+    "time": 400,
+    "timeDay": 524,
+    "timeWeek": 366,
+    "timeMonth": 407,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2024-09-11": 113
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 207,
-    "timeDay": 185,
-    "timeWeek": 184,
-    "timeMonth": 212,
-    "timeYear": 207,
+    "time": 215,
+    "timeDay": 545,
+    "timeWeek": 243,
+    "timeMonth": 218,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2024-09-25": 24
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.daalbot.xyz.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
-    "time": 136,
-    "timeDay": 88,
-    "timeWeek": 102,
-    "timeMonth": 141,
-    "timeYear": 136,
+    "uptimeYear": "99.73%",
+    "time": 143,
+    "timeDay": 495,
+    "timeWeek": 163,
+    "timeMonth": 151,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2024-09-02": 164
     }
