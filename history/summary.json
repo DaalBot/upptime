@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.daalbot.xyz.ico",
     "slug": "internal-api",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 205,
     "timeDay": 284,
     "timeWeek": 148,
@@ -45,9 +45,9 @@
     "url": "http://bot.daalbot.xyz:8923/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/bot.daalbot.xyz.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
@@ -57,6 +57,7 @@
     "timeMonth": 271,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2024-12-21": 0,
       "2024-11-10": 268,
       "2024-09-02": 164
     }
