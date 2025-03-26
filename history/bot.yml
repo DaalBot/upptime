@@ -1,7 +1,7 @@
 url: http://bot.daalbot.xyz:8923/api/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-26T07:28:06.641Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2025-03-26T07:36:31.754Z
 startTime: 2024-09-01T21:44:44.401Z
 generator: Upptime <https://github.com/upptime/upptime>
