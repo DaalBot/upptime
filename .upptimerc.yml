@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: External API
-    url: https://api.daalbot.xyz/get/test/ping
+    url: https://api.daalbot.xyz/ping
   - name: Internal API
     url: https://bot.daalbot.xyz/get/test/ping
   - name: Bot
