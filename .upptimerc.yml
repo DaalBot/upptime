@@ -8,7 +8,7 @@ sites:
   - name: Internal API
     url: https://bot.daalbot.xyz/get/test/ping
   - name: Bot
-    url: http://bot.daalbot.xyz:8923/api/ping
+    url: http://discord.daalbot.xyz/api/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
