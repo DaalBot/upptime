@@ -1,7 +1,7 @@
 url: https://bot.daalbot.xyz/get/test/ping
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2025-10-23T23:21:46.688Z
+status: down
+code: 502
+responseTime: 136
+lastUpdated: 2025-10-24T06:48:09.786Z
 startTime: 2024-09-02T09:02:18.050Z
 generator: Upptime <https://github.com/upptime/upptime>
