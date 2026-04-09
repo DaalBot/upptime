@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/discord.daalbot.xyz.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "82.11%",
+    "uptime": "82.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -177,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/socket.daalbot.xyz.ico",
     "slug": "socket",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.90%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.90%",
     "time": 221,
     "timeDay": 169,
     "timeWeek": 197,
     "timeMonth": 210,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-04-09": 0,
+      "2026-04-09": 89,
       "2025-11-18": 158
     }
   }
