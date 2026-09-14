@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.daalbot.xyz.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.23%",
-    "time": 523,
-    "timeDay": 271,
-    "timeWeek": 247,
-    "timeMonth": 227,
-    "timeYear": 506,
+    "uptime": "98.10%",
+    "uptimeDay": "72.95%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "98.10%",
+    "time": 611,
+    "timeDay": 6732,
+    "timeWeek": 2406,
+    "timeMonth": 835,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2026-05-04": 50,
       "2026-05-07": 145,
@@ -24,7 +24,7 @@
       "2026-07-19": 1440,
       "2026-07-18": 262,
       "2026-08-08": 365,
-      "2026-09-14": 3
+      "2026-09-14": 389
     }
   },
   {
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.daalbot.xyz.ico",
     "slug": "o-auth",
     "status": "down",
-    "uptime": "81.20%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptime": "81.09%",
+    "uptimeDay": "73.01%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "44.79%",
-    "uptimeYear": "81.20%",
+    "uptimeYear": "81.09%",
     "time": 499,
     "timeDay": 10058,
     "timeWeek": 2699,
@@ -92,7 +92,7 @@
       "2026-08-10": 1440,
       "2026-08-09": 1440,
       "2026-08-08": 1218,
-      "2026-09-14": 2
+      "2026-09-14": 389
     }
   },
   {
@@ -100,16 +100,16 @@
     "url": "https://discord.daalbot.xyz/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/discord.daalbot.xyz.ico",
     "slug": "bot",
-    "status": "down",
-    "uptime": "85.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "71.52%",
-    "time": 411,
-    "timeDay": 9810,
-    "timeWeek": 2632,
-    "timeMonth": 841,
+    "status": "up",
+    "uptime": "85.84%",
+    "uptimeDay": "73.10%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "71.44%",
+    "time": 412,
+    "timeDay": 6635,
+    "timeWeek": 2372,
+    "timeMonth": 823,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2025-10-09": 422,
@@ -222,7 +222,7 @@
       "2026-05-07": 144,
       "2026-07-18": 46,
       "2026-08-08": 365,
-      "2026-09-14": 0
+      "2026-09-14": 387
     }
   },
   {
@@ -230,16 +230,16 @@
     "url": "https://socket.daalbot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/socket.daalbot.xyz.ico",
     "slug": "socket",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "98.78%",
     "time": 255,
-    "timeDay": 128,
-    "timeWeek": 236,
-    "timeMonth": 232,
+    "timeDay": 168,
+    "timeWeek": 238,
+    "timeMonth": 233,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-18": 158,
@@ -252,7 +252,7 @@
       "2026-07-19": 1440,
       "2026-07-18": 262,
       "2026-08-08": 365,
-      "2026-09-14": 0
+      "2026-09-14": 387
     }
   }
 ]
